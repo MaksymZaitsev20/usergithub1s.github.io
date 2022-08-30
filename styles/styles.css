@@ -73,8 +73,7 @@ body {
     color: #000000;
 }
 
-.project,
-.project-link {
+.project {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -83,7 +82,12 @@ body {
 }
 
 .project-link {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
     margin-left: 10px;
+    color: #595959;
 }
 
 .project-bracket {
